@@ -1,0 +1,91 @@
+div {
+    text-align: center;
+}
+
+
+.text-input{
+    width: 325px;
+    border-top: white;
+    border-left: white;
+    border-right: white;
+    font-size: 12px;
+    
+}
+
+.text-input1{
+    width: 185px;
+    border-top: white;
+    border-left: white;
+    border-right: white;
+    font-size: 12px;
+}
+
+.text-input2{
+    width: 270px;
+    border-top: white;
+    border-left: white;
+    border-right: white;
+    font-size: 12px;
+}
+
+.text-input3{
+    width: 150px;
+    border-top: white;
+    border-left: white;
+    border-right: white;
+    font-size: 12px;
+}
+
+.nome{
+    font-size: 12px;
+    font-weight: bold;
+    font-family: calibri;
+}
+
+.setor{
+    font-size: 12px;
+    font-weight: bold;
+    font-family: calibri;
+}
+
+.mat{
+    font-size: 12px;
+    font-weight: bold;
+    font-family: calibri;
+}
+
+.cargo{
+    font-size: 12px;
+    font-weight: bold;
+    font-family: calibri;
+}
+
+.text-input4{
+    width: 100px;
+    border-top: white;
+    border-left: white;
+    border-right: white;
+    border-bottom: white;
+    font-size: 12px;
+    
+}
+
+.text-input5{
+    width: 180px;
+    border-top: white;
+    border-left: white;
+    border-right: white;
+    border-bottom: white;
+    font-size: 12px;
+    
+}
+
+.text-input6{
+    width: 100px;
+    border-top: white;
+    border-left: white;
+    border-right: white;
+    border-bottom: white;
+    font-size: 12px;
+}
+

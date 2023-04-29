@@ -1,0 +1,26 @@
+No seu computador digite na console da pagina em que deseja compartilhar os registros
+
+	JSON.stringify(localStorage)
+
+Vai abrir um array com os registros. copie e compartilhe com o computador desejado.
+
+---------------------------------------
+
+Em seguida na console da pagina que compartilhou digite o seguinte codigo:
+
+	localStorage.clear();
+
+Para limpar os dados caso tenha registros desnecessarios . .. .
+
+--------------------------------------
+
+Ainda no computador digite o seguinte comaando:
+
+	Object.assign(localStorage, JSON.parse('COLE AQUI A STRING JSON QUE VOCÊ COMPARTILHOU'));
+
+--------------------------------------
+
+Após ter feito o procedimento atualize a página.
+
+
+
